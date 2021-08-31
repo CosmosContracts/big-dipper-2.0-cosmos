@@ -1,23 +1,23 @@
 {
-  "title": "Desmos Block Explorer",
-  "network": "morpheus-apollo-2",
-  "icon": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/icon.svg?sanitize=true",
+  "title": "Juno Block Explorer",
+  "network": "lucina",
+  "icon": "https://pbs.twimg.com/profile_images/1432343271032991752/AcmwJ5Ry_400x400.jpg",
   "logo": {
-    "default": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/logo.svg?sanitize=true"
+    "default": "https://pbs.twimg.com/profile_images/1432343271032991752/AcmwJ5Ry_400x400.jpg"
   },
   "prefix": {
-    "consensus": "desmosvalcons",
-    "validator": "desmosvaloper",
-    "account": "desmos"
+    "consensus": "junovalcons",
+    "validator": "junovaloper",
+    "account": "juno"
   },
   "genesis": {
-    "time": "2021-07-13T08:00:00",
+    "time": "2021-06-23T16:00:00",
     "height": 1
   },
-  "primaryTokenUnit": "udaric",
+  "primaryTokenUnit": "ujuno",
   "tokenUnits": {
-    "udaric": {
-      "display": "daric",
+    "ujuno": {
+      "display": "juno",
       "exponent": 6
     }
   },
