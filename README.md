@@ -2,7 +2,8 @@
 
 JunoScan is an open source explorer for the Juno Blockchain. It runs a customized version of Big Dipper 2.0.
 
-![JUNO Logo Banner (Red) 1](https://user-images.githubusercontent.com/79812965/132003448-d3aeb3e8-bb94-411a-b4a5-09113f3a7cc8.png)
+![JUNOSCAN ](https://user-images.githubusercontent.com/79812965/132004693-23775657-8695-464a-8ac8-cb62e3f619f1.png)
+
 
 
 
